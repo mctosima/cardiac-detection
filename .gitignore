@@ -1,0 +1,4 @@
+data/*
+src/lightning_logs
+src/tutorial-cardiac-detection
+src/wandb
